@@ -1,16 +1,3 @@
 # reciply
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Reciply is an Android and Apple-compatible app developed using Flutter and Dart home to all things cooking and recipes. This app is comprised of three primary screens, the Home, Search, and My Reciplys screen. The Home screen contains featured recipes for the users to explore. The Search screen uses a public Recipe API to search any recipe inputted. Finally, the My Reciplys screen uses the Shared Preferences library to store users' recipes. They are stored on their unique device, meaning that a user doesn't need to make an account but rather simply open the app to retrieve what they've saved.
